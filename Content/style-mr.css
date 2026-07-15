@@ -1,0 +1,20 @@
+@font-face {font-family:'Sakal Marathi';
+  src: url('../Fonts/SakalMarathi-Normal.eot');
+  src: url('../Fonts/SakalMarathi-Normal.eot?#iefix') format('embedded-opentype'),
+       url('../Fonts/SakalMarathi-Normal.woff2') format('woff2'),
+       url('../Fonts/SakalMarathi-Normal.woff') format('woff'),
+       url('../Fonts/SakalMarathi-Normal.ttf') format('truetype'),
+       url('../Fonts/SakalMarathi-Normal.svg#SakalMarathi-Normal') format('svg'); font-weight: normal; font-style: normal;}
+
+
+body {font-family:'Sakal Marathi'; line-height:20px;}
+.login-header .portal-text, h1, h2, h3, h4, h5 {font-family:Sakal Marathi!important; line-height:20px}
+div.bhoechie-tab-menu .list-group-item .title {font-size:1.1em;}
+.org {font-family:Sakal Marathi!important; }
+.subheader p{font-size: 1.4em;line-height: 27px}
+.right-menu > a span, .right-menu .nav-pills a span{line-height: 20px}
+.banner-pop h2 {font-size: 1.5em !important}
+.total-dept { padding-top:10px;}
+.pnl-body p {margin:7px 0 0px;}
+.query-conat{line-height:150%;margin:10px auto 0!important;max-width: 396px;word-break: break-word;}
+
